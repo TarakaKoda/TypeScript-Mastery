@@ -1,0 +1,38 @@
+what is TypeScript?
+why do we need it?
+How is it different from JavaScript?
+
+TypeScript is a programming language created by the microsoft to address shortcomings of JavaScript.
+
+ You can think of as the brother of a javascript 
+ javascript is a kid who doesn't have the discipline who does whatever he/she wants
+ on the other hand we have typescript a kid with some discipline
+ technically speaking typescript is a programming language built up on the javascript
+ so every javascript file is a valid typescript file
+ but typescript adds some cool features that help us will robust and maintainable application quickly
+ Benefits:
+ 1. static typing
+ 2. code completion
+ 3. refactoring 
+ 4. shorthand notation
+ 1. what is static typing?
+ In programming we have type of languages Statically-typed and Dynamically-type
+---------------------------|-------------------------------------------------
+ STATICALLY_TYPED          |          DYNAMICALLY-TYPED
+---------------------------|-------------------------------------------------
+  (c++, C#,Java)           |   (JavaScript, Python, Ruby)
+                           |     let number = 10;
+  int number = 10;         |     number = "a";
+  number = "a"; X changing |     Math.round(number); this will be a problem
+   type is not allowed     |
+----------------------------------------------------------------------------
+ 
+ while in statically typed languages will check the type of the variable in the time of compiling
+ in the other hand we have dynamically typed languages which will check the type of variable in the run tim
+ typescript is just javascript with type checking
+ Drawbacks:
+ 1. Complication
+ 2. we need to be more discipline while writing the typescript
+ we can use typescript for medium and large projects and javascript for medium project
+  
+

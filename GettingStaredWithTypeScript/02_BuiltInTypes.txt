@@ -1,0 +1,11 @@
+In JavaScript we have different data type.. but TypeScript extends that data types with extra few
+
+JavaScript                  TypeScript
+1. string                     any
+2. number                     unknown
+3. boolean                    never
+4. null                       enum
+5. undefined                  tuple
+6. object
+
+
