@@ -1,0 +1,10 @@
+import { Circle, Square } from "./shape";
+import Store, { Format } from "./storage";
+const newCircle = new Circle(3, 'Red');
+console.log(newCircle);
+const newSquare = new Square(4, 'Green');
+console.log(newSquare);
+const newStore = new Store();
+console.log(newStore);
+const newFormat = Format.Compress;
+console.log(newFormat);
